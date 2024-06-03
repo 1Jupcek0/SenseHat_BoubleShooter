@@ -1,6 +1,6 @@
 # Bouble Shooter from Raspberry PI Sense Hat
 
-<h3 align="left">Small onefile game on Sense Hat</h3>
+<h3 align="left">Small onefile game for Sense Hat</h3>
 • Game is playable on <a href="https://trinket.io/sense-hat"><strong>trinket.io</strong></a> with arrows
 
 ## 
